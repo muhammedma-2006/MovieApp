@@ -15,7 +15,7 @@ const App = () => {
                 </header>
                 <Search searchItem={searchItem} setSearchItem={setSearchItem} />
             </div>
-        </main>
+        </main> 
     );
 }
 export default App;
